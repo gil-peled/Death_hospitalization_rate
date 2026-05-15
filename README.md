@@ -13,3 +13,6 @@ README.md
 LICENSE
     MIT License for the code.
 
+CITATION.cff
+    citation information.
+
