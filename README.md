@@ -5,7 +5,7 @@ An associated replication package for Chapter 3, Table 1, of the paper "Assessin
 ## Repository contents
 
 code/simulation.m
-    MATLAB script used to generate the simulation results. Seen in window.
+    MATLAB 2024 script used to generate the simulation results. Seen in window.
 
 README.md
     This file
