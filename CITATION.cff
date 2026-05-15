@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "Replication package for: Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine"
+authors:
+  - family-names: Peled
+    given-names: Gil 
+version: 1.0.0
+date-released: 2026-05-15
+license: MIT
+repository-code: "https://github.com/gil-peled/Death_hospitalization_rate"
+abstract: "This repository contains MATLAB simulation code associated with Chapter 3, Table 1, of the paper 'Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine.' No external data are required; the simulation quantities are generated internally by the MATLAB script."
+keywords:
+  - hospitalization rates
+  - estimands
+  - simulation
+  - MATLAB
+  - health economics
