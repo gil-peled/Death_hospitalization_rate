@@ -1,5 +1,7 @@
 %% Appendix A table: E[D_i], E[N_i/c], Corr(lambda_i, D_i), E[H_G'], E[H_G]
 % Model from Appendix A:
+
+rng(1245);
 %
 %   lambda_i ~ Lognormal( log(0.075) - 0.5^2/2 , 0.5^2 )
 %   n_it = floor(c * lambda_i) if d_it = 1
